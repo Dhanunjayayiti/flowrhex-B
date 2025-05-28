@@ -18,7 +18,9 @@ function App() {
     <StatsDisplay/>
     <HowWeWork/>
      <Footer/>
-     
+  
+      
+
     </>
   )
 }
